@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hanhsin/workspace/ROS/robosim/src/planning_sim/build/devel/setup.sh

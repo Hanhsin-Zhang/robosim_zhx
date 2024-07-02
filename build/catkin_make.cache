@@ -1,0 +1,2 @@
+planning_sim
+-DCATKIN_DEVEL_PREFIX=/home/hanhsin/workspace/ROS/robosim/devel -DCMAKE_INSTALL_PREFIX=/home/hanhsin/workspace/ROS/robosim/install -G Unix Makefiles

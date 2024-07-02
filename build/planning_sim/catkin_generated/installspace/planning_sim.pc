@@ -1,0 +1,8 @@
+prefix=/home/hanhsin/workspace/ROS/robosim/install
+
+Name: planning_sim
+Description: Description of planning_sim
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

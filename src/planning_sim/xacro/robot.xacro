@@ -1,0 +1,9 @@
+<!-- 组合小车 -->
+<robot name="my_robot" xmlns:xacro="http://wiki.ros.org/xacro">
+    <xacro:include filename="interialCalculator.xacro" />
+    <xacro:include filename="robotBase.xacro" />
+    <xacro:include filename="robotDifferentialController.xacro" />
+    <xacro:include filename="lidar.xacro" />
+    <xacro:include filename="camera.xacro" />
+    <xacro:include filename="kinectic.xacro" />
+</robot>
